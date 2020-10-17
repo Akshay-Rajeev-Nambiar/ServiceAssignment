@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service Assignment</string>
+    <string name="start_service">START BACKGROUND SERVICE</string>
+    <string name="stop_service">STOP BACKGROUND SERVICE</string>
+    <string name="start_fg_service">START FOREGROUND SERVICE</string>
+    <string name="stop_fg_service">STOP FOREGROUND SERVICE</string>
+</resources>
