@@ -7,7 +7,6 @@ import android.os.Bundle
 import android.view.View
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var mediaPlayer: MediaPlayer
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
